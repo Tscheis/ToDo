@@ -2,6 +2,8 @@
 
 一个基于 Vue 3 + TypeScript 构建的现代待办事项应用。
 
+![Demo Screenshot](public/screenshot.png)
+
 ## 技术栈
 
 - **Vue 3** - Composition API + `<script setup>`
